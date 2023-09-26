@@ -1,6 +1,11 @@
 # linuxprojeto1-iac
 Entrega de script para primeiro projeto curso de linux DIO
 #O comando -crypt não é reconhecido n/
+
+
+
+
+
 root@pedroubuntu:/home/pedroubuntu# ./iacl.sh
 Criando diretórios...
 Criando grupos de usuários...
