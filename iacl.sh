@@ -19,7 +19,7 @@ useradd carlos -m -s /bin/bash -p $(openssl passwd -6 Senha123) -G GRP_ADM
 useradd maria -m -s /bin/bash -p $(openssl passwd -6 Senha123) -G GRP_ADM
 useradd joao -m -s /bin/bash -p $(openssl passwd -6 Senha123) -G GRP_ADM
 
-useradd debora -m -s /bin/bash -p $(openssl passwd -6 Senha123 -G GRP_VEN
+useradd debora -m -s /bin/bash -p $(openssl passwd -6 Senha123) -G GRP_VEN
 useradd sebastiana -m -s /bin/bash -p $(openssl passwd -6 Senha123) -G GRP_VEN
 useradd roberto -m -s /bin/bash -p $(openssl passwd -6 Senha123) -G GRP_VEN
 
