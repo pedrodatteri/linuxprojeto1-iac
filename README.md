@@ -1,3 +1,3 @@
 # linuxprojeto1-iac
-Entrega de script para primeiro projeto curso de linux DIO
+Primeiro script linux ubuntu 22.04.3 LTS
 
